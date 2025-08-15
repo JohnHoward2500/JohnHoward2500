@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm John Howard
+
+- I'm an aspiring software developer
+- I'm pursuing my bachelors in Computer Information Systems
+- I'm currently learning C
+- I began my journey studing software development and computer science in September 2024
+
 
 <!--
 **JohnHoward2500/JohnHoward2500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
