@@ -4,6 +4,7 @@
 - I'm pursuing my bachelors in Computer Information Systems
 - I'm currently learning C
 - I began my journey studing software development and computer science in September 2024
+- Python, Go, Java
 
 
 <!--
